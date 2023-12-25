@@ -4,7 +4,7 @@
 
 ```console
 $ ./build.cmd
-$ ./png.exe PNG_transparency_demonstration_1.png
+$ ./png.exe PNG_transparency_demonstration_1.png output.png numbers.txt
 ```
 
 ## References
