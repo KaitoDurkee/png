@@ -1,4 +1,4 @@
-PNG file format exploration
+# PNG File Format Exploration
 
 ## Quick Start
 
